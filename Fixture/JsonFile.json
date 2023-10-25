@@ -1,0 +1,30 @@
+{
+    "students-sci": [
+        {
+            "id": 1,
+            "name": "Scott",
+            "result": "pass",
+            "location": "Manapakkam"
+        },
+        {
+            "id": 2,
+            "name": "Mark",
+            "result": "fail",
+            "location": "perungudi"
+        }
+    ],
+    "students-account": [
+        {
+            "id": 3,
+            "name": "Muru",
+            "result": "pass",
+            "location": "Pazhavanthangal"
+        },
+        {
+            "id": 4,
+            "name": "Jai",
+            "result": "pass",
+            "location": "velacherry"
+        }
+    ]
+}
